@@ -39,7 +39,7 @@ status = 0
 #dumploader.dumper("admins", [171434202, 89689285])
 #End of Test
 
-btoken = "b6c8aab0-a96d-4ec4-8e22-3b133a443c7c"
+btoken = "XXXXXX"
 #Logger setting:
 logging.basicConfig(format='%(filename)s[LINE:%(lineno)d]# %(levelname)-8s [%(asctime)s]  %(message)s',
                     level = logging.DEBUG)
